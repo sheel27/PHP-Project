@@ -7,6 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Installation
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies using Composer. ---> composer install
+4. Generate the application key. ---> php artisan key:generate
+5. Run database migrations. ---> php artisan migrate
+6. Serve the application. ---> php artisan serve
+
+   Happy coding!
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
